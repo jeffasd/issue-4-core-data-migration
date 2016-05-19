@@ -1,3 +1,4 @@
+自定义 CoreData 数据模型文件升级 时的数据迁移
 BookMigration
 =============
 
